@@ -1,0 +1,16 @@
+Test set: accuracy 25.0% on 40 reports
+
+label           precision  recall  f1    reports
+--------------  ---------  ------  ----  -------
+crop_growth     0.00       0.00    0.00  10     
+pest_alert      0.00       0.00    0.00  10     
+soil_condition  0.25       1.00    0.40  10     
+weather_damage  0.00       0.00    0.00  10     
+
+Confusion matrix (rows = true label, columns = predicted)
+true \ predicted  crop_growth  pest_alert  soil_condition  weather_damage
+----------------  -----------  ----------  --------------  --------------
+crop_growth       0            0           10              0             
+pest_alert        0            0           10              0             
+soil_condition    0            0           10              0             
+weather_damage    0            0           10              0             
