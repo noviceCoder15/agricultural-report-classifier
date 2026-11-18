@@ -1,0 +1,40 @@
+{"text": "Thrips are all over the onion leaves, silvery streaks everywhere.", "label": "pest_alert", "source": "handwritten"}
+{"text": "Cutworms took down a whole row of seedlings overnight.", "label": "pest_alert", "source": "handwritten"}
+{"text": "Found weevils crawling in the grain store, the sacks are infested.", "label": "pest_alert", "source": "handwritten"}
+{"text": "Downy mildew showing up on the grape leaves, grey fuzz on the underside.", "label": "pest_alert", "source": "handwritten"}
+{"text": "Grasshoppers are stripping the edges of the sorghum and the swarm keeps growing.", "label": "pest_alert", "source": "handwritten"}
+{"text": "Mealybugs on the cassava tips, white cottony patches all over.", "label": "pest_alert", "source": "handwritten"}
+{"text": "Termite mounds are popping up near the young trees and some roots are hollow.", "label": "pest_alert", "source": "handwritten"}
+{"text": "Snails everywhere after dark, eating the lettuce down to the stems.", "label": "pest_alert", "source": "handwritten"}
+{"text": "Stink bugs on the soybean pods, lots of puncture marks.", "label": "pest_alert", "source": "handwritten"}
+{"text": "Rice blast lesions on the leaves, diamond shaped with grey centres.", "label": "pest_alert", "source": "handwritten"}
+{"text": "Sandy soil drains too fast, nutrients just wash straight through.", "label": "soil_condition", "source": "handwritten"}
+{"text": "pH is 8.1 on the new plot, far too alkaline for blueberries.", "label": "soil_condition", "source": "handwritten"}
+{"text": "Deep rills are forming down the slope where the topsoil is washing away.", "label": "soil_condition", "source": "handwritten"}
+{"text": "There is a hardpan layer about 30 cm down, roots turn sideways when they hit it.", "label": "soil_condition", "source": "handwritten"}
+{"text": "Potassium is low according to the latest test results.", "label": "soil_condition", "source": "handwritten"}
+{"text": "The clay is sticky and sour smelling, water just sits on top.", "label": "soil_condition", "source": "handwritten"}
+{"text": "Sodic patches in the low corner, the soil forms a hard crust when dry.", "label": "soil_condition", "source": "handwritten"}
+{"text": "Soil temperature is only 9 degrees, too cold to sow yet.", "label": "soil_condition", "source": "handwritten"}
+{"text": "Added compost last season and the soil now crumbles nicely in your hand.", "label": "soil_condition", "source": "handwritten"}
+{"text": "Zinc deficiency confirmed in the soil analysis for the east block.", "label": "soil_condition", "source": "handwritten"}
+{"text": "Sleet and a hard freeze overnight, the orchard blossoms are brown this morning.", "label": "weather_damage", "source": "handwritten"}
+{"text": "Monsoon rains flattened half the paddy, stalks are lying in the mud.", "label": "weather_damage", "source": "handwritten"}
+{"text": "A gale last night snapped branches and ripped the netting off the berries.", "label": "weather_damage", "source": "handwritten"}
+{"text": "A flash flood carried away the seedlings from the lower beds.", "label": "weather_damage", "source": "handwritten"}
+{"text": "Sunscald on the pepper fruits after the three day heat spell.", "label": "weather_damage", "source": "handwritten"}
+{"text": "Hail came through at four pm, torn leaves everywhere and bruised fruit.", "label": "weather_damage", "source": "handwritten"}
+{"text": "A cold snap killed off the tender shoots on the avocado trees.", "label": "weather_damage", "source": "handwritten"}
+{"text": "The wind knocked the sunflower heads over, many are broken at the neck.", "label": "weather_damage", "source": "handwritten"}
+{"text": "Drought is now in its sixth week and the pasture has turned to straw.", "label": "weather_damage", "source": "handwritten"}
+{"text": "The tornado warning was real, the barn roof is gone and the corn is flattened.", "label": "weather_damage", "source": "handwritten"}
+{"text": "Silks are showing on the corn, tasselling started about three days ago.", "label": "crop_growth", "source": "handwritten"}
+{"text": "Bolls are opening on the cotton, first picking should be next week.", "label": "crop_growth", "source": "handwritten"}
+{"text": "Seedling emergence is even across the plot, around a 90 percent stand.", "label": "crop_growth", "source": "handwritten"}
+{"text": "Wheat heads have fully emerged and are starting to fill.", "label": "crop_growth", "source": "handwritten"}
+{"text": "Panicles have appeared on the millet and the plants stand almost shoulder high.", "label": "crop_growth", "source": "handwritten"}
+{"text": "The beans have started to flower, lots of little white blooms.", "label": "crop_growth", "source": "handwritten"}
+{"text": "Grain moisture is down to 14 percent, so harvest begins tomorrow.", "label": "crop_growth", "source": "handwritten"}
+{"text": "New tillers are coming on strong after transplanting.", "label": "crop_growth", "source": "handwritten"}
+{"text": "The cassava canopy is dense and the plants are right on schedule.", "label": "crop_growth", "source": "handwritten"}
+{"text": "Tomato trusses are setting fruit, the first green fruits are golf ball size.", "label": "crop_growth", "source": "handwritten"}

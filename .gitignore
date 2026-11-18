@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
+.ipynb_checkpoints/
+# the fine-tuned model is about 500 MB - regenerate it with `python -m app.cli train`
+models/
+.cache/

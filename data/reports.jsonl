@@ -1,0 +1,320 @@
+{"text": "Aphids are clustering under the leaves of the millet in the lower paddock. Logged by the field supervisor.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Soil pH in the north field came back at 4.8, too acidic for cotton. Logged by the field supervisor.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Hail hit plot 7 this morning and shredded the wheat leaves. No action taken yet.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Germination is good, about 50% of the rice seeds have sprouted in the front field.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Birds are pecking at the ripening millet in block C.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Earthworms are plentiful and the soil in the hillside plot is dark and crumbly. Please advise.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Frost last night burned the young cassava in the hillside plot. Please advise.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The canopy has closed over the rows in the hillside plot, rice growth is on schedule.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Aphids are clustering under the leaves of the millet in the school field.", "label": "pest_alert", "source": "synthetic"}
+{"text": "A soil test confirmed phosphorus deficiency in the school field. No action taken yet.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Report: No rain for 7 weeks and the drought has stunted the millet in the north field. Photos attached.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Update: Expect a good yield from the barley in row 12, the heads are well formed.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Update: Aphids are clustering under the leaves of the cassava in the river terrace.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Lab results show low nitrogen in the soil of the hillside plot.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A late frost killed the millet blossoms in the lower paddock.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Germination is good, about 35% of the barley seeds have sprouted in the north field. Will check again tomorrow.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Fungal blight lesions have appeared on the soybean leaves in the lower paddock.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The ground in field B is waterlogged and heavy clay sticks to the hoe. Photos attached.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Morning round: Cyclone winds tore the plastic cover off the greenhouse at the school field. Neighbours are seeing the same.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The cassava plants in the north field are about 7 cm tall and look healthy. Logged by the field supervisor.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Caterpillars ate holes through the cassava leaves in the east side two days ago. No action taken yet.", "label": "pest_alert", "source": "synthetic"}
+{"text": "A white salt crust has formed on the soil surface in the school field.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Flooding after the storm covered the school field, the sugarcane is under water. No action taken yet.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Quick note: The soybean in field B is two weeks behind schedule and growing slowly.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Birds are pecking at the ripening cotton in the hillside plot.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Morning round: A soil test confirmed phosphorus deficiency in the lower paddock.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Cyclone winds tore the plastic cover off the greenhouse at the lower paddock. Will update this evening.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Fruit set has started on the cotton in plot 7. Logged by the field supervisor.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Stem borer holes are visible on the barley stalks in the lower paddock.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The soil is badly compacted in the lower paddock, roots cannot go deep.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Heavy rain on Tuesday broke the rice stalks in the lower paddock.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Germination is good, about 35% of the sugarcane seeds have sprouted in block C.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Birds are pecking at the ripening wheat in the hillside plot.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The soil is badly compacted in plot 7, roots cannot go deep. Please advise.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Frost last night burned the young wheat in the back acre. Neighbours are seeing the same.", "label": "weather_damage", "source": "synthetic"}
+{"text": "millet seedlings were transplanted in the lower paddock and are taking root. Neighbours are seeing the same.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Leaf rust spots are spreading on the cotton in the lower paddock. Please advise.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Organic matter is low in the east side, the soil looks pale and sandy.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Hail hit block C two days ago and shredded the wheat leaves. Will update this evening.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The canopy has closed over the rows in row 12, rice growth is on schedule. Please advise.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Report: Spider mites and fine webbing on the maize in the school field. Will update this evening.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Organic matter is low in block C, the soil looks pale and sandy.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Update: A heatwave scorched the soybean in the lower paddock, leaves are curling and browning.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The sorghum in the front field is ready for harvest, the grain is hard and golden. Please advise.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Quick note: Birds are pecking at the ripening maize in the north field. Will update this evening.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Update: Earthworms are plentiful and the soil in the back acre is dark and crumbly. Will update this evening.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A storm on Friday afternoon flattened the rice across row 12. Photos attached.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Quick note: Leaves on the maize in block C are a deep green and growing fast. Please advise.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Report: Leaf rust spots are spreading on the sugarcane in the north field. Photos attached.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Morning round: A soil test confirmed phosphorus deficiency in the east side.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Report: A late frost killed the wheat blossoms in the river terrace.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Leaves on the wheat in field B are a deep green and growing fast. Neighbours are seeing the same.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Caterpillars ate holes through the soybean leaves in the back acre on Tuesday.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Report: The soil in the front field is very dry and cracking.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Quick note: No rain for 8 weeks and the drought has stunted the barley in the hillside plot.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The cassava in the front field is ready for harvest, the grain is hard and golden.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Aphids are clustering under the leaves of the cotton in the school field.", "label": "pest_alert", "source": "synthetic"}
+{"text": "A soil test confirmed phosphorus deficiency in field B. Logged by the field supervisor.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Quick note: Scorching heat last week has withered the rice in the north field. Logged by the field supervisor.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The sorghum in the hillside plot is ready for harvest, the grain is hard and golden.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Update: Fall armyworm damage on about 85% of the maize plants in the river terrace. Will check again tomorrow.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Soil moisture in the school field is only 25% at 20 cm depth.", "label": "soil_condition", "source": "synthetic"}
+{"text": "No rain for 4 weeks and the drought has stunted the cotton in the hillside plot.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The rice in row 12 has reached the flowering stage. No action taken yet.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Fall armyworm damage on about 45% of the wheat plants in plot 7.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The soil in the east side is very dry and cracking. Photos attached.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A late frost killed the cotton blossoms in the river terrace.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Pods are filling nicely on the barley in the front field. Will update this evening.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Fall armyworm damage on about 25% of the sorghum plants in the hillside plot. Neighbours are seeing the same.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Update: Soil pH in row 12 came back at 5.1, too acidic for sorghum. Logged by the field supervisor.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Update: A late frost killed the sugarcane blossoms in the front field. Photos attached.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Field note: The canopy has closed over the rows in the front field, millet growth is on schedule.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Whiteflies cover the underside of the barley leaves in row 12.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Update: Soil pH in the east side came back at 4.8, too acidic for soybean. Neighbours are seeing the same.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Scorching heat this week has withered the sugarcane in row 12.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Pods are filling nicely on the soybean in the hillside plot. Will check again tomorrow.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Aphids are clustering under the leaves of the cotton in the lower paddock. Will update this evening.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Organic matter is low in plot 7, the soil looks pale and sandy.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Morning round: A late frost killed the wheat blossoms in block C. Logged by the field supervisor.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Fruit set has started on the sorghum in the hillside plot. No action taken yet.", "label": "crop_growth", "source": "synthetic"}
+{"text": "FYI: Aphids are clustering under the leaves of the sorghum in the north field.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Topsoil is eroding along the slope in plot 7. Will update this evening.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Update: Flooding after the storm covered the school field, the sorghum is under water. Please advise.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Morning round: The wheat in field B is two weeks behind schedule and growing slowly. No action taken yet.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Quick note: Caterpillars ate holes through the maize leaves in plot 7 this morning.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The soil is badly compacted in the school field, roots cannot go deep.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Field note: Strong winds knocked down about 60% of the sugarcane in the north field. Please advise.", "label": "weather_damage", "source": "synthetic"}
+{"text": "FYI: barley seedlings were transplanted in block C and are taking root.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Found 14 armyworm larvae per plant on the millet in the front field last week. Neighbours are seeing the same.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Field note: Soil moisture in the north field is only 75% at 20 cm depth.", "label": "soil_condition", "source": "synthetic"}
+{"text": "FYI: A heatwave scorched the millet in the east side, leaves are curling and browning.", "label": "weather_damage", "source": "synthetic"}
+{"text": "wheat seedlings were transplanted in the north field and are taking root.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Caterpillars ate holes through the sugarcane leaves in the lower paddock last week.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Lab results show low nitrogen in the soil of the east side. Will check again tomorrow.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A heatwave scorched the maize in the hillside plot, leaves are curling and browning. No action taken yet.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Pods are filling nicely on the sugarcane in the school field.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Rats have been chewing stored cassava near the back acre.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Soil moisture in the hillside plot is only 40% at 20 cm depth.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Flooding after the storm covered block C, the millet is under water. No action taken yet.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Report: Tillering is going well on the maize in block C, plants look strong. Will check again tomorrow.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Birds are pecking at the ripening cotton in field B.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Report: The soil is badly compacted in block C, roots cannot go deep. Neighbours are seeing the same.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Field note: A heatwave scorched the cotton in the north field, leaves are curling and browning.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The cassava in the hillside plot is two weeks behind schedule and growing slowly.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Spider mites and fine webbing on the wheat in the back acre.", "label": "pest_alert", "source": "synthetic"}
+{"text": "FYI: A soil test confirmed phosphorus deficiency in the school field.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A late frost killed the maize blossoms in row 12. Will update this evening.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Germination is good, about 90% of the rice seeds have sprouted in the lower paddock.", "label": "crop_growth", "source": "synthetic"}
+{"text": "A locust swarm was spotted moving across the lower paddock on Tuesday. No action taken yet.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The soil in the river terrace is hard as brick, the plough could not break it. Neighbours are seeing the same.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Update: No rain for 7 weeks and the drought has stunted the soybean in the school field. Logged by the field supervisor.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The rice in row 12 has reached the flowering stage.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Stem borer holes are visible on the maize stalks in the back acre.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The ground in the river terrace is waterlogged and heavy clay sticks to the hoe. Will check again tomorrow.", "label": "soil_condition", "source": "synthetic"}
+{"text": "No rain for 9 weeks and the drought has stunted the soybean in the hillside plot.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Germination is good, about 60% of the barley seeds have sprouted in block C.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Morning round: Aphids are clustering under the leaves of the maize in the north field.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Soil moisture in the north field is only 35% at 20 cm depth.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Strong winds knocked down about 60% of the rice in the back acre.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The sugarcane in the lower paddock is ready for harvest, the grain is hard and golden. Please advise.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Spider mites and fine webbing on the maize in plot 7. Will update this evening.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The soil in block C is hard as brick, the plough could not break it.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Report: Hailstones the size of marbles dented the sorghum pods in the front field.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The sugarcane in plot 7 is ready for harvest, the grain is hard and golden.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Rats have been chewing stored soybean near the back acre.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Field note: A soil test confirmed phosphorus deficiency in the east side. Please advise.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A heatwave scorched the sorghum in block C, leaves are curling and browning. Logged by the field supervisor.", "label": "weather_damage", "source": "synthetic"}
+{"text": "FYI: Pods are filling nicely on the sugarcane in the lower paddock. Neighbours are seeing the same.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Whiteflies cover the underside of the sorghum leaves in row 12.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The soil in the front field is very dry and cracking.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A storm this morning flattened the cotton across the lower paddock. Photos attached.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The cassava in field B is ready for harvest, the grain is hard and golden.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Aphids are clustering under the leaves of the sugarcane in the school field.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Earthworms are plentiful and the soil in block C is dark and crumbly.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A storm this morning flattened the sorghum across the school field.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The sorghum in the river terrace is ready for harvest, the grain is hard and golden.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Leaf rust spots are spreading on the cotton in the lower paddock.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Lab results show low nitrogen in the soil of the hillside plot. Please advise.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Morning round: Hail hit row 12 yesterday and shredded the cotton leaves.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Field note: Leaves on the millet in the lower paddock are a deep green and growing fast. Logged by the field supervisor.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Field note: Leaf rust spots are spreading on the millet in plot 7.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Report: A soil test confirmed phosphorus deficiency in the back acre. Please advise.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Heavy rain this week broke the maize stalks in the east side.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Germination is good, about 5% of the sugarcane seeds have sprouted in the river terrace.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Found 7 armyworm larvae per plant on the cassava in field B two days ago. Will update this evening.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The ground in the north field is waterlogged and heavy clay sticks to the hoe.", "label": "soil_condition", "source": "synthetic"}
+{"text": "FYI: No rain for 8 weeks and the drought has stunted the cassava in the river terrace.", "label": "weather_damage", "source": "synthetic"}
+{"text": "sugarcane seedlings were transplanted in the school field and are taking root.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Fall armyworm damage on about 35% of the barley plants in the back acre.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Earthworms are plentiful and the soil in the back acre is dark and crumbly.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A storm on Friday afternoon flattened the millet across field B. No action taken yet.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Fruit set has started on the cassava in plot 7.", "label": "crop_growth", "source": "synthetic"}
+{"text": "A locust swarm was spotted moving across the lower paddock two days ago. No action taken yet.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Soil pH in the lower paddock came back at 4.8, too acidic for rice. Photos attached.", "label": "soil_condition", "source": "synthetic"}
+{"text": "FYI: Scorching heat this morning has withered the barley in the hillside plot. Will check again tomorrow.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Leaves on the rice in the river terrace are a deep green and growing fast.", "label": "crop_growth", "source": "synthetic"}
+{"text": "FYI: Whiteflies cover the underside of the barley leaves in plot 7. No action taken yet.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The soil in row 12 is very dry and cracking.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Morning round: Frost last night burned the young rice in the back acre. Neighbours are seeing the same.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Leaves on the cotton in the front field are a deep green and growing fast. Will update this evening.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Fall armyworm damage on about 75% of the millet plants in the front field.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Quick note: The soil in the east side is very dry and cracking.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Cyclone winds tore the plastic cover off the greenhouse at field B.", "label": "weather_damage", "source": "synthetic"}
+{"text": "FYI: The barley in the hillside plot is two weeks behind schedule and growing slowly.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Quick note: Spider mites and fine webbing on the cotton in the lower paddock. Will update this evening.", "label": "pest_alert", "source": "synthetic"}
+{"text": "FYI: The ground in the river terrace is waterlogged and heavy clay sticks to the hoe.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Hailstones the size of marbles dented the millet pods in plot 7.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Tillering is going well on the millet in the lower paddock, plants look strong. Will update this evening.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Rats have been chewing stored millet near the back acre.", "label": "pest_alert", "source": "synthetic"}
+{"text": "FYI: Organic matter is low in the lower paddock, the soil looks pale and sandy.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Quick note: Cyclone winds tore the plastic cover off the greenhouse at the back acre.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Pods are filling nicely on the wheat in the front field. No action taken yet.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Fungal blight lesions have appeared on the rice leaves in the school field. Will update this evening.", "label": "pest_alert", "source": "synthetic"}
+{"text": "A soil test confirmed phosphorus deficiency in the back acre.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Scorching heat last week has withered the wheat in the front field. Will check again tomorrow.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The millet in the east side is ready for harvest, the grain is hard and golden.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Fall armyworm damage on about 60% of the cassava plants in the north field.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Topsoil is eroding along the slope in the east side. Neighbours are seeing the same.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Hail hit the north field earlier today and shredded the wheat leaves. Will check again tomorrow.", "label": "weather_damage", "source": "synthetic"}
+{"text": "FYI: The canopy has closed over the rows in the hillside plot, cotton growth is on schedule.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Spider mites and fine webbing on the soybean in the back acre. Photos attached.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Soil moisture in row 12 is only 60% at 20 cm depth. Please advise.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A storm this morning flattened the rice across row 12.", "label": "weather_damage", "source": "synthetic"}
+{"text": "FYI: Pods are filling nicely on the sugarcane in field B. Logged by the field supervisor.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Leaf rust spots are spreading on the rice in the hillside plot.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The soil is badly compacted in the north field, roots cannot go deep. Logged by the field supervisor.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Scorching heat on Tuesday has withered the cotton in the hillside plot. Logged by the field supervisor.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The sugarcane in the hillside plot has reached the flowering stage.", "label": "crop_growth", "source": "synthetic"}
+{"text": "A locust swarm was spotted moving across block C earlier today.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The soil is badly compacted in the north field, roots cannot go deep. Neighbours are seeing the same.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A heatwave scorched the rice in the back acre, leaves are curling and browning.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Leaves on the sorghum in the river terrace are a deep green and growing fast.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Fungal blight lesions have appeared on the soybean leaves in the river terrace. No action taken yet.", "label": "pest_alert", "source": "synthetic"}
+{"text": "A soil test confirmed phosphorus deficiency in the river terrace.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A heatwave scorched the cassava in block C, leaves are curling and browning.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Tillering is going well on the millet in block C, plants look strong.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Whiteflies cover the underside of the cotton leaves in plot 7. Will update this evening.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Topsoil is eroding along the slope in the lower paddock.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Update: Hail hit the east side this morning and shredded the rice leaves.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Pods are filling nicely on the soybean in the hillside plot.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Field note: Aphids are clustering under the leaves of the rice in the river terrace.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Soil moisture in the hillside plot is only 65% at 20 cm depth. Will check again tomorrow.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Field note: Scorching heat on Tuesday has withered the cassava in row 12.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Leaves on the millet in the north field are a deep green and growing fast.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Leaf rust spots are spreading on the sugarcane in the north field. Logged by the field supervisor.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Quick note: Lab results show low nitrogen in the soil of the back acre. No action taken yet.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Strong winds knocked down about 35% of the cotton in the lower paddock. Logged by the field supervisor.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Report: The millet in the school field is two weeks behind schedule and growing slowly. Photos attached.", "label": "crop_growth", "source": "synthetic"}
+{"text": "A locust swarm was spotted moving across block C on Friday afternoon.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Morning round: The soil is badly compacted in the hillside plot, roots cannot go deep.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Morning round: No rain for 5 weeks and the drought has stunted the millet in the lower paddock. Will update this evening.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Tillering is going well on the cotton in the front field, plants look strong. Photos attached.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Caterpillars ate holes through the cotton leaves in block C earlier today. Neighbours are seeing the same.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Report: Organic matter is low in the hillside plot, the soil looks pale and sandy.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Cyclone winds tore the plastic cover off the greenhouse at plot 7.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Morning round: The cotton plants in field B are about 7 cm tall and look healthy.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Fall armyworm damage on about 5% of the cotton plants in field B.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Lab results show low nitrogen in the soil of the east side.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Scorching heat on Tuesday has withered the sorghum in plot 7.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Report: Leaves on the maize in the east side are a deep green and growing fast.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Birds are pecking at the ripening barley in field B.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Report: The soil is badly compacted in the lower paddock, roots cannot go deep. Will update this evening.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A storm yesterday flattened the maize across the north field.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Germination is good, about 30% of the sugarcane seeds have sprouted in block C.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Update: Fungal blight lesions have appeared on the sorghum leaves in block C. Logged by the field supervisor.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Earthworms are plentiful and the soil in the school field is dark and crumbly.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Flooding after the storm covered the north field, the cassava is under water.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The soybean plants in the east side are about 37 cm tall and look healthy.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Aphids are clustering under the leaves of the cotton in row 12. Neighbours are seeing the same.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Field note: A soil test confirmed phosphorus deficiency in plot 7. Neighbours are seeing the same.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Field note: A heatwave scorched the soybean in the river terrace, leaves are curling and browning.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Morning round: Germination is good, about 60% of the maize seeds have sprouted in the river terrace.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Rats have been chewing stored wheat near the hillside plot.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The soil in plot 7 is hard as brick, the plough could not break it. No action taken yet.", "label": "soil_condition", "source": "synthetic"}
+{"text": "No rain for 5 weeks and the drought has stunted the cotton in the front field. Photos attached.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Report: millet seedlings were transplanted in plot 7 and are taking root. Photos attached.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Field note: Rats have been chewing stored millet near the front field. Will check again tomorrow.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Topsoil is eroding along the slope in the east side. Photos attached.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Hailstones the size of marbles dented the rice pods in row 12. Will update this evening.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The cassava in block C has reached the flowering stage.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Fungal blight lesions have appeared on the wheat leaves in the hillside plot. No action taken yet.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Organic matter is low in the river terrace, the soil looks pale and sandy.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Cyclone winds tore the plastic cover off the greenhouse at the school field. Logged by the field supervisor.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Fruit set has started on the barley in field B. No action taken yet.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Rats have been chewing stored maize near the north field.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The soil in the front field is hard as brick, the plough could not break it.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Heavy rain yesterday broke the maize stalks in the back acre.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The canopy has closed over the rows in the lower paddock, soybean growth is on schedule.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Aphids are clustering under the leaves of the cassava in the school field.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Morning round: Organic matter is low in the back acre, the soil looks pale and sandy. Photos attached.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A storm this morning flattened the barley across the lower paddock. No action taken yet.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Germination is good, about 5% of the maize seeds have sprouted in the north field.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Stem borer holes are visible on the cotton stalks in the lower paddock.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Field note: Soil pH in field B came back at 5.3, too acidic for barley. Logged by the field supervisor.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Update: Heavy rain earlier today broke the sugarcane stalks in the hillside plot. Photos attached.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Pods are filling nicely on the maize in the river terrace. Photos attached.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Update: Leaf rust spots are spreading on the barley in field B.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Soil moisture in the east side is only 50% at 20 cm depth.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A late frost killed the wheat blossoms in plot 7.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The cotton in block C has reached the flowering stage. Logged by the field supervisor.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Field note: Spider mites and fine webbing on the millet in block C.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Field note: Topsoil is eroding along the slope in the front field. Will check again tomorrow.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Cyclone winds tore the plastic cover off the greenhouse at the lower paddock. No action taken yet.", "label": "weather_damage", "source": "synthetic"}
+{"text": "sugarcane seedlings were transplanted in plot 7 and are taking root.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Caterpillars ate holes through the sorghum leaves in the hillside plot two days ago.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Field note: Organic matter is low in field B, the soil looks pale and sandy.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Strong winds knocked down about 5% of the wheat in the front field. Will check again tomorrow.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Tillering is going well on the rice in plot 7, plants look strong.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Caterpillars ate holes through the cotton leaves in block C this week. Will update this evening.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Report: The soil is badly compacted in the north field, roots cannot go deep.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Report: A late frost killed the cotton blossoms in the school field. Neighbours are seeing the same.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Leaves on the maize in the front field are a deep green and growing fast.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Fungal blight lesions have appeared on the soybean leaves in the east side.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Lab results show low nitrogen in the soil of the north field. Neighbours are seeing the same.", "label": "soil_condition", "source": "synthetic"}
+{"text": "No rain for 5 weeks and the drought has stunted the soybean in plot 7.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The sugarcane plants in the front field are about 15 cm tall and look healthy. Neighbours are seeing the same.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Field note: Stem borer holes are visible on the cassava stalks in the river terrace. Please advise.", "label": "pest_alert", "source": "synthetic"}
+{"text": "A soil test confirmed phosphorus deficiency in block C.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Strong winds knocked down about 60% of the maize in the front field. Logged by the field supervisor.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The cotton in the east side is two weeks behind schedule and growing slowly.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Field note: Birds are pecking at the ripening sugarcane in row 12.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Topsoil is eroding along the slope in plot 7.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Frost last night burned the young sorghum in the lower paddock. Neighbours are seeing the same.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Expect a good yield from the soybean in the river terrace, the heads are well formed. Will check again tomorrow.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Found 17 armyworm larvae per plant on the sorghum in the back acre this week.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Earthworms are plentiful and the soil in the east side is dark and crumbly. Neighbours are seeing the same.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Field note: A heatwave scorched the millet in the east side, leaves are curling and browning. Will update this evening.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The barley in the north field is ready for harvest, the grain is hard and golden.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Aphids are clustering under the leaves of the rice in the school field.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Organic matter is low in plot 7, the soil looks pale and sandy. Neighbours are seeing the same.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A storm earlier today flattened the maize across the front field. Neighbours are seeing the same.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The rice in row 12 is two weeks behind schedule and growing slowly. Will check again tomorrow.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Fall armyworm damage on about 90% of the cassava plants in the east side.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Lab results show low nitrogen in the soil of the school field.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Flooding after the storm covered the river terrace, the rice is under water.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Fruit set has started on the wheat in the lower paddock. Will check again tomorrow.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Morning round: Spider mites and fine webbing on the cotton in the lower paddock.", "label": "pest_alert", "source": "synthetic"}
+{"text": "Earthworms are plentiful and the soil in plot 7 is dark and crumbly.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Cyclone winds tore the plastic cover off the greenhouse at row 12.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Fruit set has started on the wheat in the back acre.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Morning round: Found 27 armyworm larvae per plant on the rice in the east side this morning.", "label": "pest_alert", "source": "synthetic"}
+{"text": "A white salt crust has formed on the soil surface in the river terrace.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Morning round: Frost last night burned the young millet in the lower paddock.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Expect a good yield from the millet in the school field, the heads are well formed.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Found 18 armyworm larvae per plant on the maize in the back acre two days ago.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The soil in the lower paddock is very dry and cracking. Logged by the field supervisor.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A late frost killed the sugarcane blossoms in the north field.", "label": "weather_damage", "source": "synthetic"}
+{"text": "Update: Expect a good yield from the sugarcane in row 12, the heads are well formed.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Birds are pecking at the ripening maize in plot 7. Will check again tomorrow.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The ground in field B is waterlogged and heavy clay sticks to the hoe.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Flooding after the storm covered field B, the cassava is under water.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The wheat in the east side is ready for harvest, the grain is hard and golden. Please advise.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Report: Whiteflies cover the underside of the cassava leaves in the back acre.", "label": "pest_alert", "source": "synthetic"}
+{"text": "FYI: The soil is badly compacted in the front field, roots cannot go deep.", "label": "soil_condition", "source": "synthetic"}
+{"text": "Morning round: Hailstones the size of marbles dented the cassava pods in the back acre. No action taken yet.", "label": "weather_damage", "source": "synthetic"}
+{"text": "The millet in the school field is ready for harvest, the grain is hard and golden.", "label": "crop_growth", "source": "synthetic"}
+{"text": "Fall armyworm damage on about 5% of the rice plants in the back acre.", "label": "pest_alert", "source": "synthetic"}
+{"text": "The soil is badly compacted in the front field, roots cannot go deep. Will update this evening.", "label": "soil_condition", "source": "synthetic"}
+{"text": "A storm on Tuesday flattened the soybean across the east side.", "label": "weather_damage", "source": "synthetic"}
+{"text": "maize seedlings were transplanted in plot 7 and are taking root.", "label": "crop_growth", "source": "synthetic"}
