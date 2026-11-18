@@ -1,3 +1,4 @@
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/rkzyezjbxw/badge.svg)](https://msrit.ask.thili.ai/b/rkzyezjbxw)
 # Agricultural Report Classifier
 
 A command-line tool that sorts short farmer reports and field observations into categories,
