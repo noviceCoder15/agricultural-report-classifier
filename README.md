@@ -1,5 +1,5 @@
-[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/rkzyezjbxw/badge.svg)](https://msrit.ask.thili.ai/b/rkzyezjbxw)
 # Agricultural Report Classifier
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/rkzyezjbxw/badge.svg)](https://msrit.ask.thili.ai/b/rkzyezjbxw)
 
 A command-line tool that sorts short farmer reports and field observations into categories,
 using GPT-2 fine-tuned to predict a special label token. Classify one report, or a whole file
